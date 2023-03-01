@@ -1,0 +1,13 @@
+/* Write your CSS here */
+img {
+  height: 100px;
+  margin: 15px;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  height: 39px;
+}
+.image {
+  height: 30px;
+}

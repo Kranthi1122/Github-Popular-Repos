@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f8f8ff;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  width: 15vw;
+  box-shadow: 10px 9px rgb(124, 123, 123);
+  border-style: solid;
+  border-color: goldenrod;
+  border-width: 3px;
+}
+p {
+  margin: 0px;
+}
+button {
+  background-color: transparent;
+  border: 0px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 16px;
+}
+h1 {
+  font-size: 20px;
+  color: #e73959;
+}
+.li {
+  list-style-type: none;
+}
+.blue-color {
+  border: solid 2px #0284c7;
+  margin-left: 10px;
+  border-radius: 5px;
+  color: #0284c7;
+}
